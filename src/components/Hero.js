@@ -23,9 +23,9 @@ export default function Hero(){
                 <div className="social-links">
                     <a href="#" className="twitter">    
                     </a>
-                    <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                    <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
-                    <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
+                    <a href="tinyurl.com/mwa5rnk9" className="facebook"><i className="bx bxl-facebook"></i></a>
+                    <a href="https://www.instagram.com/stevenlawsonphoto/" className="instagram"><i className="bx bxl-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/steve-r-lawson/" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                 </div>
             </div>
         </section>
